@@ -3,23 +3,21 @@ on:
   push:
     branches:
       - main
-  schedule:
-  - cron: "0 0 1 * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout repo
+    - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: build html
+    - name: Build HTML
       uses: ammaraskar/sphinx-action@8.2.3
       with:
         build-command: "sphinx-build -b html source/ build/html/"
         docs-folder: "./"
 
-    - name: upload pages artifact
+    - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
       id: upload
       with:
@@ -34,6 +32,6 @@ jobs:
       id-token: write
       pages: write
     steps:
-      - name: deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
