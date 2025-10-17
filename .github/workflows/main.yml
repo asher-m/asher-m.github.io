@@ -30,6 +30,9 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+    permissions:
+      id-token: write
+      pages: write
     steps:
       - name: deploy to GitHub Pages
         id: deployment
