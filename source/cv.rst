@@ -1,11 +1,12 @@
 Vitae
 =====
 
-Doctoral Student in Applied Mathematics
+.. figure:: img/dolomites.jpg
+   :align: right
+   :figwidth: 40%
+   :alt: A photo of Asher Merrill in front of a scree field on a mountain.
 
-.. .. figure:: img/headshot.png
-..    :align: right
-..    :width: 40%
+Doctoral Student in Applied Mathematics
 
 
 Profiles
