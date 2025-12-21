@@ -6,4 +6,5 @@ Welcome to my personal site!  This is currently a work in progress, but check ba
 .. toctree::
     :maxdepth: 2
 
+    Vitae <cv>
     projects
