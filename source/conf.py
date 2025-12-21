@@ -9,6 +9,7 @@
 project = 'Asher Merrill'
 copyright = '2025, A.S. Merrill'
 author = 'A.S. Merrill'
+html_title = 'Asher Merrill'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
