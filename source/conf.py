@@ -14,12 +14,17 @@ html_title = 'Asher Merrill'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    'sphinxcontrib.bibtex',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
 
+#  -- sphinxcontrib-bibtex configuration --------------------------------------
+# https://pypi.org/project/sphinxcontrib-bibtex/
 
+bibtex_bibfiles = []
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
