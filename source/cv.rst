@@ -33,7 +33,7 @@ Education
 
 | **Physics, Bachelor of Science**
 |
-|   University of New Hampshire, *summa cum laude*
+|   University of New Hampshire
 |   August 2016 to May 2020
 |
 |   Thesis: `Searching for the Suprathermal Ion Tail with Parker Solar Probe <https://scholars.unh.edu/honors/527/>`_
@@ -102,12 +102,119 @@ Publications & Presentations
 Experience
 ----------
 
+Los Alamos National Laboratory
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Graduate Research Assistant**
+
+May to August 2025
+
+- Developed an end-to-end Monte-Carlo simulation of `NASA's IMAP-Hi instrument <https://en.wikipedia.org/wiki/Interstellar_Mapping_and_Acceleration_Probe#IMAP-Hi>`_
+- Analyzed empircal and simulated performance of IMAP-Hi engineering model for calibration and qualification testing
+- Developed global MHD simulation of the heliosphere with dynamic upwind boundary condition
+
+**Post-bachelors Research Assistant**
+
+June 2021 to July 2023
+
+- Implemented a quantitative error analysis bootstrap method using chi-squared goodness of fit metric to statistically substantiate distance measurements of the outer heliosphere
+- Refactored scientific data analysis code leading to an over 95% reduction in runtime.
+
+
+University of New Hampshire: Space Science Center
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Undergraduate Research Assistant**
+
+December 2017 to May 2021
+
+- Developed data pipeline software for the ISOIS instrument sweet on NASA's Parker Solar Probe (PSP).
+- Published ISOIS data products fro distribution among NASA PSP collaborators.
+- Conducted research on the thermal distribution of solar wind ions culminating in my undergraduate thesis.
+
+
+Istituto Nazionale di Fisica Nucleare--Genova (INFN--GE)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Undergraduate Research Assistant**
+
+Summer 2019
+Genova, Italy
+
+- Developed data acquisition software for DoE--Jefferson Lab Beam Dump eXperiment (BDX) based on CERN's ROOT (C++ extension)
+- Calibrated and commissioned in-house designed ASICs for use in BDX
+
+
+
+Awards
+------
+
+| **University of New Hampshire** *summa cum laude*
+|   May 2020
+
+| **University of New Hampshire** International Research Opportunities Grant: *Data Visualization in a Dark Matter Detector*
+|   Received May 2019
+|   Collaboration with INFN Genova
+
+| **Eagle Scout**
+|   Scouting Aemrica (formerly Boy Scouts of America)
+|   Received August 2015
+
+
+
+Service & Leadership
+--------------------
+
+| **Society for Industrial and Applied Mathematics**
+|   Secretary, University of Utah Student Chapter
+|   August 2024 to Present
+
 | **Los Alamos National Laboratory**
-|
-|    **Graduate Research Assistant**
-|
-|       May to August 2025
-|
-|    **Post-bachelors Research Assistant**
-|
-|       June 2021 to July 2023
+|   Students' Association Event Coordinator
+|   August 2021 to June 2023
+
+| **American Institute of Chemical Engineers**
+|   President, University of New Hampshire Student Chapter
+|   August 2018 to May 2019
+
+
+
+Membership
+----------
+
+| **Society for Industrial and Applied Mathematics**
+|   2023 to Present
+
+| **American Geophysical Union**
+|   2021 to Present
+
+
+
+Skills
+------
+
+Languages
+^^^^^^^^^
+
+Python, C++, Matlat, LaTeX, SQL
+
+Some experience in Java, Javascript, L3-Harris IDL
+
+
+Libraries & Tools
+^^^^^^^^^^^^^^^^^
+
+PyTorch, Numpy, Scipy, cmake, gtest, Docker
+
+Some experience with CUDA, GCP, OpenMP, MPI, CERN ROOT
+
+
+Version Control
+^^^^^^^^^^^^^^^
+
+git
+
+
+Software & Systems
+^^^^^^^^^^^^^^^^^^
+
+Linux, slurm, conda, Maple
